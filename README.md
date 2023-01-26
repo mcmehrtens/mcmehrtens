@@ -55,3 +55,5 @@ Type|Item|Price
  - [ ] NextCloud Server for Storing Notability Notes
  - [ ] Portfolio Website
  - [ ] Dashboard Website
+ - [ ] Build OPNsense Router
+ - [ ] Self-Hosted VPN
